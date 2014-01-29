@@ -1,6 +1,11 @@
 TiAlternativeProgressBar
 ========================
 
+### [Download][rls] [Example][exm]
+
+[rls]: https://github.com/smclab/TiAlternativeProgressBar/releases
+[exm]: https://github.com/smclab/TiAlternativeProgressBar/tree/master/example
+
 Drop-in replacement for `Ti.UI.ProgressBar`, but with support for **indeterminate mode** and a
 **secondary progress**. (Android only)
 
