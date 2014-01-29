@@ -1,0 +1,4 @@
+#!/bin/bash
+ant
+rm -rf ~/Library/Application\ Support/Titanium/modules/android/it.smc.alternativeprogressbar/0.1.0
+unzip dist/it.smc.alternativeprogressbar-android-0.1.0.zip -d ~/Library/Application\ Support/Titanium/

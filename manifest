@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1.0
+apiversion: 2
+description: Alternative ProgressBar with indeterminate state and secondary value
+author: Pier Paolo Ramon
+license: LGPL2.1
+copyright: Copyright (c) 2014 SMC Treviso s.r.l.
+
+
+# these should not be edited
+name: alternativeprogressbar
+moduleid: it.smc.alternativeprogressbar
+guid: 490f6b7f-bb97-4793-a0f4-f5240afe600b
+platform: android
+minsdk: 3.2.0.GA
