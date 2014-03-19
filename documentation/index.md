@@ -6,8 +6,7 @@ Drop-in replacement for `Ti.UI.ProgressBar`.
 
 This module, compatible only with Android, enhances the default ProgressBar with **indeterminate mode** and a **secondary progress**.
 
-![Indeterminate Progress Bar](1.png)
-![Determinate Progress Bar](2.png)
+![Indeterminate Progress Bar](1.png)   ![Determinate Progress Bar](2.png)
 
 ## Accessing the TiAlternativeProgressBar Module
 
