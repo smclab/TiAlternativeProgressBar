@@ -1,13 +1,38 @@
 TiAlternativeProgressBar
 ========================
 
-### [Download][rls] [Example][exm]
+[![Built for Titanium SDK][ti-badge]][ti]
+[![Available through gitTio][gittio-badge]][gittio-page]
 
-[rls]: https://github.com/smclab/TiAlternativeProgressBar/releases
-[exm]: https://github.com/smclab/TiAlternativeProgressBar/tree/master/example
+[ti-badge]: http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png
+[ti]: http://www.appcelerator.com/titanium/
+[gittio-badge]: http://gitt.io/badge.png
+[gittio-page]: http://gitt.io/component/it.smc.alternativeprogressbar
 
 Drop-in replacement for `Ti.UI.ProgressBar`, but with support for **indeterminate mode** and a
 **secondary progress**. (Android only)
+
+### Installation
+
+You can install this module using [gitTio][gittio-cli] with
+
+    gittio install it.smc.alternativeprogressbar
+
+Alternatively you can [download a specific release][rls] for manual installation.
+
+[rls]: https://github.com/smclab/TiAlternativeProgressBar/releases
+[gittio-cli]: http://gitt.io/cli
+
+### Example
+
+You can run the example running the following command
+
+    gittio demo it.smc.alternativeprogressbar
+
+The source for this demo application can be found in [the `example` folder][exm].
+
+[exm]: https://github.com/smclab/TiAlternativeProgressBar/tree/master/example
+
 
 Usage
 -----
